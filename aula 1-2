@@ -1,0 +1,8 @@
+#include <stdio.h>
+int main()
+{
+    char Hh;
+    Hh 0='A';
+    printf("%c", Hh);
+    return 0;
+}

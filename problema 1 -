@@ -1,0 +1,7 @@
+#include <stdio.h>
+main ()
+{
+printf ("C\n");
+prinft ("is the greatest\n");
+prinft ("Language");
+}

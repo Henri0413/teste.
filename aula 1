@@ -1,0 +1,14 @@
+#include <stdio.h>
+int main()
+{
+    int meuInteiro = 108;
+    double meuDouble = 1800.7;
+    float meuFloat = 48.1;
+    char meuChar = 'a';
+    printf("%x\n", meuInteiro);
+    printf("%d\n", meuInteiro);
+    printf("%f\n", meuFloat);
+    printf("%f\n", meuDouble);
+    prinft("%c\n", meuChar);
+    return 0;
+}

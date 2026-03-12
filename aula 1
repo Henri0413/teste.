@@ -9,6 +9,6 @@ int main()
     printf("%d\n", meuInteiro);
     printf("%f\n", meuFloat);
     printf("%f\n", meuDouble);
-    prinft("%c\n", meuChar);
+    printf("%c\n", meuChar);
     return 0;
 }
